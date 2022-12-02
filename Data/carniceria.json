@@ -1,0 +1,82 @@
+[
+  {
+    "Id": 0,
+    "Category": "Pollo",
+    "Price": 4.50,
+    "Title": "Pollo entero",
+    "ProductDescription": "Pídalo como quiera señora.",
+    "ProductId": "SK-A-3262",
+    "Brand": "Producto Fresco", 
+    "ProductNationality": "Spain"
+  },
+  {
+    "Id": 0,
+    "Category": "Pollo",
+    "Price": 5.60,
+    "Title": "Alas",
+    "ProductDescription": "Pídalo como quiera señor/a.",
+    "ProductId": "SK-A-3262",
+    "Brand": "Producto Fresco",
+    "ProductNationality": "Spain"
+  },
+  {
+    "Id": 0,
+    "Category": "Pollo",
+    "Price": 7.90,
+    "Title": "Pechuga de pollo",
+    "ProductDescription": "Pídalo como quiera señor/a.",
+    "ProductId": "SK-A-3262",
+    "Brand": "Producto Fresco",
+    "ProductNationality": "Spain"
+  },
+  {
+    "Id": 0,
+    "Category": "Embasados",
+    "Price": 13.90,
+    "Title": "Flamenquines",
+    "ProductDescription": "Pídalo como quiera señor/a.",
+    "ProductId": "SK-A-3262",
+    "Brand": "Frimancha",
+    "ProductNationality": "Spain"
+  },
+  {
+    "Id": 0,
+    "Category": "Embasados",
+    "Price": 16.90,
+    "Title": "Mini Cachopos",
+    "ProductDescription": "Pídalo como quiera señor/a.",
+    "ProductId": "SK-A-3262",
+    "Brand": "Frimancha",
+    "ProductNationality": "Spain"
+  },
+  {
+    "Id": 0,
+    "Category": "Cerdo",
+    "Price": 6.90,
+    "Title": "Lomo",
+    "ProductDescription": "Pídalo como quiera señor/a.",
+    "ProductId": "SK-A-3262",
+    "Brand": "Producto Fresco",
+    "ProductNationality": "Spain"
+  },
+  {
+    "Id": 0,
+    "Category": "Cerdo",
+    "Price": 7.90,
+    "Title": "Chorizos de cerdo",
+    "ProductDescription": "Pídalo como quiera señor/a.",
+    "ProductId": "SK-A-3262",
+    "Brand": "Producto Fresco",
+    "ProductNationality": "Spain"
+  },
+  {
+    "Id": 0,
+    "Category": "Fiambre",
+    "Price": 16.90,
+    "Title": "Queso curado",
+    "ProductDescription": "Pídalo como quiera señor/a.",
+    "ProductId": "SK-A-3262",
+    "Brand": "García Baquero",
+    "ProductNationality": "Spain"
+  }
+]
